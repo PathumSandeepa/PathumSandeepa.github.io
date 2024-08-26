@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>📱 Task App Project</h1>
+<h1>📱 Task App Project</h1> .
 
 <p>Welcome to the Task App project! This website is designed for an imaginary mobile app called Task App. It's created using HTML, CSS, and JavaScript. Note that only the home page is designed to be responsive.</p>
 
